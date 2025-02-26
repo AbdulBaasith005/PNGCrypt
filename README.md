@@ -24,6 +24,11 @@
 
 ## 📌 Installation  
 
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/abdulbaasith005/pngcrypt.git
+cd pngcrypt
+```
 ### Prerequisites
 Ensure you have Python 3.x installed along with the required dependencies.
 
@@ -31,11 +36,6 @@ Ensure you have Python 3.x installed along with the required dependencies.
 pip install -r requirements.txt
 ```
 
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/abdulbaasith005/pngcrypt.git
-cd pngcrypt
-```
 ## 🔑 Generating RSA Key Pairs (via OpenSSL)
 
 Before using `pngcrypt`, generate a pair of RSA keys:
